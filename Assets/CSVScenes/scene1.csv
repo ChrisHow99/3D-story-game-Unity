@@ -1,7 +1,0 @@
-﻿char1_present,char2_present,text,speaker,choice1_text,choice1_split,c1_helga_effect,c1_rehan_effect,choice2_text,choice2_split,c1_helga_effect,c1_rehan_effect,choice3_text,choice3_split,c1_helga_effect,c1_rehan_effect,bg
-0,2,Hello Helga!,3,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,class
-2,0,Hi Rehan…,3,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,Garden
-0,2,Whats up? What are you doing this evening?,3,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,RehanRoom
-2,0,Your mom.,3,bruh,-1,50,0,-1,-1,0,0,-1,-1,0,0,HellgaRoom
-0,1,%commence_ending%,0,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,bar
-0,0,<End of scene>,0,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,class
