@@ -1,0 +1,21 @@
+char1_present,char2_present,text,speaker,choice1_text,choice1_split,c1_helga_effect,c1_rehan_effect,choice2_text,choice2_split,c1_helga_effect,c1_rehan_effect,choice3_text,choice3_split,c1_helga_effect,c1_rehan_effect,bg
+0,1,You arrive at Reegan's house - it's warm and inviting yet has a weird vibe of it's not real - sorta like it's got fake walls and a basement cell to keep people who wronged you but you try not to think about it.,3,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,RehanRoom
+0,1,You get a text telling you to walk straight in and go upstairs to the first door on the right - presumably his bedroom.,3,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,RehanRoom
+0,1,You're finally here! I've been waiting for ages.,2,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,RehanRoom
+0,1,I'm sorry - but I'm here now ,0,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,RehanRoom
+0,1,It's fine - just don't do it again otherwise I'll lock you in the basement.. Haha just kidding!,2,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,RehanRoom
+0,1,Turns out you were right about the basement cell hunch,3,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,RehanRoom
+0,1,So - what do you wanna do?,2,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,RehanRoom
+0,1,I have something important to tell you,0,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,RehanRoom
+0,1,Okay?... Anything I should be nervous about?,0,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,RehanRoom
+0,1,No no.. well maybe... I just wanted to say I think you're really cute and I wanna pursue a relationship with you.. ,2,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,RehanRoom
+0,1,Oh.. Uh yea me too,0,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,RehanRoom
+0,1,Really!? Oh my - I'm so happy you think that. But there's one other thing too.,2,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,RehanRoom
+0,1,And that is?,0,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,RehanRoom
+0,2,Reegan transforms,3,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,RehanRoom
+0,2,Holy fu-,0,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,RehanRoom
+0,2,All of a sudden Reegan is no longer cute wholesome Reegan but in fact a devilish creature. It was terrifying,3,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,RehanRoom
+0,2,I thought that my incessant pestering would push you away - the fact I knew your address - what you were doing when I wasn't around.,2,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,RehanRoom
+0,2,Who wouldn't see that as a walking red flag?,2,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,RehanRoom
+0,2,"B- but.. I don't understand, how??",0,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,RehanRoom
+0,0,*the end*,3,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,RehanRoom

@@ -1,0 +1,68 @@
+char1_present,char2_present,text,speaker,choice1_text,choice1_split,c1_helga_effect,c1_rehan_effect,choice2_text,choice2_split,c1_helga_effect,c1_rehan_effect,choice3_text,choice3_split,c1_helga_effect,c1_rehan_effect,bg
+0,0,Ever since your father was imprisoned for illegally using company money to fund his 'Magical Girl Queendom' loot box addiction things have been tough.,3,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,class
+0,0,You've had to move into your Japanese Aunts house and transfer schools. ,3,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,class
+0,0,Being a transfer student makes it really hard to make friends but your charming looks and personality will help you through your first day.,3,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,class
+0,0,I just want to meet some people and make friends as soon as possible - loneliness is not my aesthetic,0,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,class
+1,0,The girl in front of you has who has been doodling all lesson in her black 'Goth is Life - Death is acceptable' titled notebook drops her pen.,0,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,class
+1,0,This is the perfect opportunity -  you pick up her pen and hand it to her - it has her name inscribed on its base 'Hellga',3,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,class
+1,0,Hi I'm-,0,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,class
+1,0,Don't even,1,I haven't even said anything yet,-1,-10,10,What's your deal?,-1,10,-10,-1,-1,0,0,class
+1,0,Listen here - Fresh Meat. Don't even try to speak to me - being attractive doesn't give you authority to talk to me,1,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,class
+1,0,I was just trying to introduce myself,0,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,class
+1,0,There you go running your mouth again - here's some advice - you're hotter when you keep quiet,1,I'm honestly not sure if that was supposed compliment or a threat,-1,10,-10,(Keep Quiet),-1,-10,10,-1,-1,0,0,class
+1,0,Meet me at the bar after school - if you leave me waiting you'll regret it,1,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,class
+0,0,That was so damn weird - that was the first person I've spoken to in this school I hope that there are some less weird students around - yikes,0,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,class
+0,0,You continue on with your day alone - thinking about the odd 'friend' that you've made - at least someone has given you attention.,3,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,class
+0,0,It's all good because your vibe is too good for you to vibe solo - more friends will come your way,3,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,class
+0,1,A boy approaches you gleefully - you notice his soft smile and the hardcover book in his grasp titled 'I'm not like other guys - A guide to pick up culture',3,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,class
+0,1,Hey hey - You must be the transfer student,2,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,class
+0,1,Yeah - I'm new around here,0,Thanks dude,-1,-10,10,That's a little presumptuous - but ok,-1,10,-10,-1,-1,0,0,class
+0,1,I'm Reegan - nice to meet you and everything - I know we've literally just met but I absolutely love your energy - there's something about you that makes me smile,2,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,class
+0,1,I know it's hard for you to move to a new country - especially a rough area around 1107 Saito street but I'm here if you need anything,2,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,class
+0,1,How do you know my address? I've never met you before,0,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,class
+0,1,I spoke to your aunt while I was doing my big shop for the week. I know - I'm a bit different to other guys.,2,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,class
+0,1,I really - really like shopping -  I go every single Thursday without fail and it takes up my whole day - I wouldn't miss it for literally anything,2,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,class
+0,1,I want to get to know you more - we should go to the school gardens tomorrow and have a chat,2,Isn't tomorrow Thursday?,-1,-10,10,I wouldn't want to interrupt your life-changing shopping spree,-1,10,-10,-1,-1,0,0,class
+0,1,Did I say I go shopping on Thursday - I meant Friday. Im such a silly goofball. I can't wait to see you tomorrow you seem like an amazing person.,2,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,class
+0,0,You arrive at the bar as instructed - it's a lot moodier and darker than all the other student bars you've been to before - just enough light to consume illicit substances without being caught.,3,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,bar
+0,0,This place is seems like bad news but you're thirsty for new companions and your optimistic spirit and positive outlook on life will help you through this anxiety-inducing experience.,3,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,bar
+1,0,You spot Hellga at the bar alone,3,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,bar
+1,0,You took long enough - I literally can't with inconsiderate people,1,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,bar
+1,0,I'm actually on time,0,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,bar
+1,0,But you left me waiting so you're not - anyways have a seat before you spoil the vibe,1,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,bar
+1,0,The bartender addresses you and asks you for your order - Hellga interjects immediately,3,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,bar
+1,0,A bloody mary for me - and the same for them,1,Excuse you - I can order for myself,-1,10,-10,I haven't gotten to look at the menu yet,-1,-10,10,-1,-1,0,0,bar
+1,0,Maybe if you arrived on time you would have the privilege of choice,1,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,bar
+1,0,This has been so weird - I've been here for less than 10 minutes and the idea of going home is looking promising but I don't even feel safe there since that oddly nice guy knows my address.,0,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,bar
+1,0,You should be glad -  I've chosen you to be my personal entertainment for a while just you and me going places and having a fun time,1,Like dating?,-1,-10,10,Wait a minute - are you into me? I thought that you were acting weird but I didn't know why,-1,10,-10,-1,-1,0,0,bar
+1,0,Call it any label you want. I won't entertain it but you can choose to believe what you want.,1,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,bar
+1,0,There's no denying that you're hot but I don't know you that well - I hope that I can see you again,1,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,bar
+0,0,You head home to try and wake up bright and early for your meeting with Reegan in the garden,3,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,Garden
+0,0,But because you're a mindful person who cares about their mental health - you decide to sleep in. Sadly you have to miss breakfast to get there on time,3,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,Garden
+0,1,Thanks for meeting me - I brought you a sandwich,2,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,Garden
+0,1,You did? Why?,0,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,Garden
+0,1,You silly goose- I know you skipped breakfast this morning.,2,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,Garden
+0,1,*silence*,3,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,Garden
+0,1,How did you know that?,0,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,Garden
+0,1,I'm an empath,2,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,Garden
+0,1,So tell me about yourself,2,I'm into reading disturbing erotica- going to bars and Panic! At the disco,-1,10,-10,I'm into crochet and astrology. I'm a Delta Venus Omega Luna Caprisun,-1,-10,10,-1,-1,0,0,Garden
+0,1,Cool. I didn't expect that from you,2,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,Garden
+0,1,You don't really know what he meant by that - I mean he's only just met you so what would he be expecting?,3,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,Garden
+0,1, Every word he said gave you a weird feeling that you've already met. Not just the day before but somehow like he already knows you as a person.,3,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,Garden
+0,1,I thought you were an empath?,0,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,Garden
+0,1,Oh yeah.,2,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,Garden
+0,1,Okay well-,0,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,Garden
+0,1,You see Reegan checking his phone somewhat frequently,3,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,Garden
+0,1,I'm sorry- am I disturbing something?,0,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,Garden
+0,1,No no - not at all. I'm just expecting a call from a doctor - with some serious results.,2,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,Garden
+0,1,Why did you organise a date during that then?,0,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,Garden
+0,1,So this is a date? ;),2,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,Garden
+0,1,His boldness catches you off guard - but not necessarily puts you off,3,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,Garden
+0,1,Possibly.. But if you have a phone call..,0,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,Garden
+0,1,Don't worry about that - I can call them back,2,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,Garden
+0,1,But it's the doctors - you need to-,0,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,Garden
+0,1,I can call them back.,2,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,Garden
+0,1,So do you wanna go on a walk or stay at the park?,2,( Stay at the park),-1,10,-10,(Go on a walk),-1,-10,10,-1,-1,0,0,Garden
+0,1,You continue on with your date with Reagan and both enjoy yourselves - he seems perfect. Knows exactly what to say - what your favourite foods are and where the best spots are,3,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,Garden
+0,1,You'd be happy to continue this relationship with more caution of your personal details,3,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,Garden
+0,0,%commence_ending%,3,-1,-1,0,0,-1,-1,0,0,-1,-1,0,0,Garden
